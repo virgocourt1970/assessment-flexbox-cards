@@ -1,5 +1,6 @@
 .cardContainer {
-  /* display */
+  display: flex;
+/* display  */
   border: 1px solid #CAD0D2;
   border-radius: 4px;
   overflow: hidden;
